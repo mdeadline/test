@@ -1,6 +1,10 @@
 test yopta
 
 hahah
+<<<<<<< HEAD
 
 
 hren wam
+=======
+pis9
+>>>>>>> a483f3999450aafc1f65f35a51f70fabc751cafb
