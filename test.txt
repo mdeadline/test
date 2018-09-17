@@ -1,0 +1,12 @@
+hi
+
+push git
+
+
+git clone git://github.com/schacon/ticgit.git
+
+$ cd ticgit
+$ git remote
+origin
+
+ git remote -v
